@@ -1,0 +1,2 @@
+# OBJECT-DETECTION-USING-IMAGE-PROCESSING-METHODS-FROM-DRONE-CAMERAS
+ABSTRACT The aim is to benefit from systems developed to counter reconnaissance, surveillance, and identified terrorist elements using ammunition-loaded drones, either air-to-air or air-to-ground. In this project, the goal is to develop a faster, more accurate, and automated detection system by utilizing modern artificial intelligence and data.
